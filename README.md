@@ -1,15 +1,18 @@
-全球饮食与健康的数据可视化 Data Visualization for Nutritional Intake & Health
+全球饮食与健康的数据可视化 
 =============
+Data Visualization for Nutritional Intake & Health
+
+数据可视化结果见[链接](https://rpubs.com/HuanSunGo/898408)
 
 
-数据可视化结果见：https://rpubs.com/HuanSunGo/898408
-
-The final output is published in: https://rpubs.com/HuanSunGo/898408
 
 #### Contributors
 - [Renfang Yang](https://github.com/Alvayang923): ry2403@columbia.edu
 - [Huan Sun](https://github.com/HuanSunGo): hs3240@columbia.edu
 - [Yixuan Li](https://github.com/yixuan-li-727): yl4564@columbia.edu
+
+The final output is published in [rpubs](https://rpubs.com/HuanSunGo/898408)
+
 
 简介
 ------------
