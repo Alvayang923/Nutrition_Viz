@@ -1,0 +1,188 @@
+Country,Code,cancer_asr
+Afghanistan,AFG,108.8
+Angola,AGO,130.6
+Albania,ALB,148.1
+Andorra,AND,135.3
+United Arab Emirates,ARE,106.7
+Argentina,ARG,218.2
+Armenia,ARM,202.9
+Antigua and Barbuda,ATG,130.6
+Australia,AUS,452.4
+Austria,AUT,255.7
+Azerbaijan,AZE,141.8
+Burundi,BDI,135.5
+Belgium,BEL,349.2
+Benin,BEN,95.8
+Burkina Faso,BFA,112
+Bangladesh,BGD,106.2
+Bulgaria,BGR,247.1
+Bahrain,BHR,112.2
+The Bahamas,BHS,164
+Bosnia and Herzegovina,BIH,227.1
+Belarus,BLR,252.8
+Belize,BLZ,120.9
+Bolivia,BOL,137.5
+Brazil,BRA,215.4
+Barbados,BRB,219.2
+Brunei,BRN,215.4
+Bhutan,BTN,81.9
+Botswana,BWA,109.5
+Central African Republic,CAF,100.4
+Canada,CAN,348
+Switzerland,CHE,317.6
+Chile,CHL,180.9
+China,CHN,204.8
+Cote d'Ivoire,CIV,188.7
+Cameroon,CMR,127.6
+Democratic Republic of the Congo,COD,292.6
+Congo,COG,111.8
+Colombia,COL,182.3
+Comoros,COM,111.8
+Cape Verde,CPV,348
+Costa Rica,CRI,188.7
+Cuba,CUB,256.7
+Cyprus,CYP,292.6
+Czech Republic,CZE,292.6
+Germany,DEU,313.2
+Djibouti,DJI,91
+Dominica,DMA,91
+Denmark,DNK,351.1
+Dominican Republic,DOM,172.4
+Algeria,DZA,135.3
+Ecuador,ECU,154.6
+Egypt,EGY,159.4
+Eritrea,ERI,100.8
+Spain,ESP,277.2
+Estonia,EST,278.5
+Ethiopia,ETH,106.7
+Finland,FIN,271.2
+Fiji,FJI,169.7
+France,FRA,341.9
+Federated States of Micronesia,FSM,106.7
+Gabon,GAB,115.8
+United Kingdom,GBR,319.9
+Georgia,GEO,196.1
+Ghana,GHA,115.9
+Guinea,GIN,116.6
+The Gambia,GMB,164
+Guinea-Bissau,GNB,107.2
+Equatorial Guinea,GNQ,110.1
+Greece,GRC,264.7
+Grenada,GRD,264.7
+Guatemala,GTM,123.1
+Guyana,GUY,141.5
+Honduras,HND,133.7
+Croatia,HRV,217.1
+Haiti,HTI,137.9
+Hungary,HUN,338.2
+Indonesia,IDN,141.1
+India,IND,97.1
+Ireland,IRL,372.8
+Iran,IRN,152.7
+Iraq,IRQ,134.9
+Iceland,ISL,265.1
+Israel,ISR,240.7
+Italy,ITA,292.6
+Jamaica,JAM,198.8
+Jordan,JOR,155.3
+Japan,JPN,285.1
+Kazakhstan,KAZ,166.9
+Kenya,KEN,149.2
+Kyrgyzstan,KGZ,130.6
+Cambodia,KHM,135.3
+Kiribati,KIR,149.2
+South Korea,KOR,242.7
+Kuwait,KWT,115.7
+Laos,LAO,165.8
+Lebanon,LBN,156.8
+Liberia,LBR,119.3
+Libya,LBY,132.2
+Saint Lucia,LCA,174.3
+Sri Lanka,LKA,105.4
+Lesotho,LSO,109
+Lithuania,LTU,293.4
+Luxembourg,LUX,291.9
+Latvia,LVA,301.5
+Morocco,MAR,148.3
+Moldova,MDA,227
+Madagascar,MDG,124.3
+Maldives,MDV,123.7
+Mexico,MEX,140.4
+Marshall Islands,MHL,244.6
+Macedonia,MKD,291.9
+Mali,MLI,140.3
+Malta,MLT,244.6
+Myanmar,MMR,136.8
+Montenegro,MNE,290.2
+Mongolia,MNG,215.6
+Mozambique,MOZ,135.3
+Mauritania,MRT,108.6
+Mauritius,MUS,155
+Malawi,MWI,154.2
+Malaysia,MYS,143.9
+Namibia,NAM,198.3
+Niger,NER,78.4
+Nigeria,NGA,110.4
+Nicaragua,NIC,135.7
+Netherlands,NLD,349.6
+Norway,NOR,327.5
+Nepal,NPL,80.9
+New Zealand,NZL,422.9
+Oman,OMN,103.8
+Pakistan,PAK,110.4
+Panama,PAN,151
+Peru,PER,176.3
+Philippines,PHL,162
+Papua New Guinea,PNG,199.4
+Poland,POL,267.3
+North Korea,PRK,161.5
+Portugal,PRT,261.8
+Paraguay,PRY,191
+Palestine,PSE,110.4
+Qatar,QAT,107.2
+Romania,ROU,263.1
+Russia,RUS,234.3
+Rwanda,RWA,113.9
+Saudi Arabia,SAU,96.4
+Sudan,SDN,95.7
+Senegal,SEN,119.5
+Singapore,SGP,233
+Solomon Islands,SLB,130.4
+Sierra Leone,SLE,102.1
+El Salvador,SLV,129.6
+Somalia,SOM,118.1
+Serbia,SRB,299.2
+Sao Tome and Principe,STP,126.4
+Suriname,SUR,167.5
+Slovakia,SVK,296.8
+Slovenia,SVN,309
+Sweden,SWE,288.6
+Swaziland,SWZ,167.5
+Seychelles,SYC,299.2
+Syria,SYR,317.6
+Chad,TCD,102.3
+Togo,TGO,111.7
+Thailand,THA,164
+Tajikistan,TJK,89.7
+Turkmenistan,TKM,128.8
+Timor-Leste,TLS,89.7
+Tonga,TON,111.7
+Trinidad and Tobago,TTO,193.9
+Tunisia,TUN,133.5
+Turkey,TUR,231.5
+Taiwan,TWN,317.6
+Tanzania,TZA,133.7
+Uganda,UGA,153.8
+Ukraine,UKR,212.8
+Uruguay,URY,269.3
+United States,USA,362.2
+Uzbekistan,UZB,108.1
+Saint Vincent and the Grenadines,VCT,174.3
+Venezuela,VEN,181.1
+Vietnam,VNM,181.1
+Vanuatu,VUT,108.8
+Samoa,WSM,236.4
+Yemen,YEM,97
+South Africa,ZAF,209.5
+Zambia,ZMB,153.5
+Zimbabwe,ZWE,200.4
